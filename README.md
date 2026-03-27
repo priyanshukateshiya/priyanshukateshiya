@@ -13,7 +13,7 @@
 - 🌱 Learning **Advanced Android Development & System Design**
 - 👯 Open to **Internships, Collaborations & Open Source**
 - 💬 Ask me about **Android, Kotlin, Java, Web Development**
-- 📫 Reach me at: **priyanshu@email.com** *(update karo)*
+- 📫 Reach me at: **kateshiyapriyanshu8@email.com** *(update karo)*
 - ⚡ Fun fact: I love turning ideas into real apps!
 
 ---
